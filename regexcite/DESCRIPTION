@@ -1,11 +1,10 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: Making a Toy Package
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Daniel", "Park", , "pjymar28@gmail.com", role = c("aut", "cre"))
+Description: Making "The Whole Game" with packages
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
